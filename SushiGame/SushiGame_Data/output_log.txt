@@ -1,0 +1,51 @@
+IIititialzize nginee vversoi:on: .5f. 46.91f1b (60f)4
+9f48bbbef0f):
+crGfxDegvdivce: creeatintgr devi=ce
+ client; threaded=1
+Diierect:
+3 D Ve:so n: VeDirecs3i o1.0n[:e e Dir.e]c
+t3 DR n1e1e.:0 [IDevAeGlF r11.G0X ]
+  (I  0R1nd9be
+  r Veedor:  NNVVIDAI
+ A  VRAG:e  For0c2e B
+GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Begin MonoManager ReloadAssembly
+PlatPoatrmr asssembbyl y:\WeeMWae\DoDccumenntsG\Ghub\tSuu\SshiiGaame\SsuishiGaSmseiG\mS_ushiGManamed\UntaiMtnygEngUiine.ngdnl. dtll (mthias mie ssrge mlesas)eLs)aiLgoDadieng D:o\umWneseMat\uD\oucumGemntsu\hGGimt\ShshbiSuasehiGam\Mena\Su\snhiGEagme\.dusliGlme intaoManUaigyeCdild\Uniatny
+Engine.dll into Unity Child Domain
+PlatPlrm assemably: D:\WeeMa\Documentse\Github\SushisGame\SushiGame\e\SusshihaiGama_tat\a\Managed\Asmsly-CSharp.dll (this message ise i harmless)
+
+Loading D:\WeeMa\\Documents\Gituhub\SushiGame\SuishiGame\SushiGame_a\ManaDeata\Managed\Assembly-CShtarp.dll into Unity Ch
+ild Domain
+Pllatform asesembly: \WDeMa\Doca\Documents\Github\SushiGame\SushiGaGe\me\SushiGame_Data\Manaa\Managed\UnityEnginel.UI.dll (this messharme il harm
+leLoad
+inLoading D:\WeeMa\nDocuments\Github\SushiGhiaame\SusSushiGame_Data\Managed\UnityEngnityingineI..llI into Unity ChilCd Domain
+in
+Plalform assassembly:  D:\WeeMa\Docuuments\Github\SshiushiGame\SushiGame\SGauesDaha\Mama_Data\\Managed\UnityEngine.Networ (king.dll (this meassage is
+ haromless):\WeLoading D:nt\\Github\Scumenus\hiGaGi\SushiGame\SushiGame_Data\ManaiGgmed\UnityEngine.NetwyEnorking.dll into Uni intty Child Domain
+main
+-  Completed reload, in  .0.162 second
+s
+Pllatform assembly: D:\WeeMa\Documents\Github\SuhshiGame\SushiGame\SushiGeaDat_a\Managed\Systestem.mor..dlre.l (this message is harmless)
+)
+PlatfPrm asormsembly: D:\D:WeeMa\Documents\GGithithub\SushiG\Sasmie\SushiGame\SushaiGame_Data\Manage.dld\System.dlla e(is hsarmless)
+is harmless)
+desktop: 1920x1080 d9Hzk; v: 1920x1080 59Hz; virtual:
+ 1920x1080 at 0,0
+<RI> Initializing inp<t.R
+I> Initializing input.
+<RI> Input initia<ized.
+put initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.703300 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.649400 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 183.
+Total: 0.180000 ms (FindLiveObjects: 0.013400 ms CreateObjectMapping: 0.016000 ms MarkObjects: 0.136300 ms  DeleteObjects: 0.013500 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5cd8 -> priority: 1 
+  Thread -> id: 4438 -> priority: 1 
